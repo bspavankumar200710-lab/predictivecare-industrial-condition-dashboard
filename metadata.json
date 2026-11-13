@@ -1,0 +1,6 @@
+{
+  "name": "PredictiveCare Industrial Condition Dashboard",
+  "description": "Industrial machine condition monitoring and predictive diagnosis application with Spring Boot REST API integration and MySQL persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

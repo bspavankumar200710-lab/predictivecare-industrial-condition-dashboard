@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Java / Spring Boot
+backend/target/
+*.class
+
+# IDE settings
+.vscode/
+.idea/
